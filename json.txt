@@ -1,0 +1,7 @@
+{'message': {'date': 1443546663,'document': {'file_name': '1Eric_Clapton_-_Reptile-front.jpg', 'file_size': 133596, 'thumb': {'width': 90, 'height': 90, 'file_id': 'AAQEABMvXpEwAASJCmwdfhlL0qICAAIC', 'file_size': 4035}, 'mime_type': 'image/jpeg', 'file_id': 'BQADBAADVwADaaBlAAFQyF0I9qEyqwI'},'from': {'username': 'usuario', 'first_name': 'Usuario', 'id': 6666666}, 'message_id': 2013, 'chat': {'username': 'usuario', 'first_name': 'Usuario', 'id': 6666666}}, 'update_id': 474613001}
+
+
+{'message': {'date': 1443547573, 'text': 'hola', 'from': {'username': 'usuario', 'first_name': 'Usuario', 'id': 6666666}, 'message_id': 2031, 'chat': {'username': 'usuario', 'first_name': 'Usuario', 'id': 6666666}}, 'update_id': 474613014}
+
+
+{'message': {'date': 1443553039, 'photo': [{'width': 90, 'height': 86, 'file_id': 'AgADBAADJ6oxG2mgZQABLsRG-zKJ8r6zv48wAASfiq260Io7elkIAAIC', 'file_size': 2537}, {'width': 320, 'height': 307, 'file_id': 'AgADBAADJ6oxG2mgZQABLsRG-zKJ8r6zv48wAASdTwWFgH67z1gIAAIC', 'file_size': 25668}, {'width': 375, 'height': 360, 'file_id': 'AgADBAADJ6oxG2mgZQABLsRG-zKJ8r6zv48wAASybm4B6Iegc1cIAAIC', 'file_size': 24047}], 'from': {'username': 'usuario', 'first_name': 'Usuario', 'id': 6666666}, 'message_id': 2119, 'chat': {'username': 'usuario', 'first_name': 'Usuario', 'id': 6666666}}, 'update_id': 474613073}
